@@ -1,1 +1,2 @@
-# yetihacks
+# YETI Hacks
+MIT License
